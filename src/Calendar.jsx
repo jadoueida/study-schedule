@@ -56,7 +56,7 @@ const Calendar = () => {
       blocks: [
         { time: "11:00 AM-1:00 PM", subject: "Economics of Healthcare (Final Review)", type: "study" },
         { time: "2:00-4:00 PM", subject: "Economics of Healthcare", type: "exam" },
-        { time: "7:00-8:00 PM", subject: "Macroeconomics (Light Study)", type: "study" }
+        { time: "7:00-8:00 PM", subject: "Water (Light Study)", type: "study" }
       ]
     },
     {
