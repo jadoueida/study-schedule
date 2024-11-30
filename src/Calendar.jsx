@@ -46,7 +46,7 @@ const Calendar = () => {
       date: "Dec 5",
       day: "Thursday",
       blocks: [
-        { time: "11:00 AM-1:00 PM", subject: "Economics of Healthcare (Final Review)", type: "study" },
+        { time: "11:00 AM-1:00 PM", subject: "Economics of Healthcare", type: "study" },
         { time: "7:00-9:00 PM", subject: "Macroeconomics", type: "study" }
       ]
     },
@@ -71,8 +71,8 @@ const Calendar = () => {
       date: "Dec 8",
       day: "Sunday",
       blocks: [
-        { time: "11:00 AM-1:00 PM", subject: "Macroeconomics (Final Review)", type: "study" },
-        { time: "4:00-6:00 PM", subject: "Macroeconomics (Final Review)", type: "study" }
+        { time: "11:00 AM-1:00 PM", subject: "Macroeconomics", type: "study" },
+        { time: "4:00-6:00 PM", subject: "Macroeconomics", type: "study" }
       ]
     },
     {
@@ -143,7 +143,7 @@ const Calendar = () => {
       date: "Dec 18",
       day: "Wednesday",
       blocks: [
-        { time: "4:00-6:00 PM", subject: "Statistics (Final Review)", type: "study" }
+        { time: "4:00-6:00 PM", subject: "Statistics", type: "study" }
       ]
     },
     {
